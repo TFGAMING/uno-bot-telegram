@@ -9,6 +9,12 @@ To run the bot yourself, you will need:
 - The [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) module
 - [Pony ORM](https://ponyorm.com/)
 
+
+## DEPLOY TO HEROKU
+
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=c707b0b5be4599b7db3c3ade0087d423"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-indigo?style=flat&logo=heroku" width="300" height="38.60" /></a></p>
+
+
 ## Setup
 - Get a bot token from [@BotFather](http://telegram.me/BotFather) and change configurations in `config.json`.
 - Convert all language files from `.po` files to `.mo` by executing the bash script `compile.sh` located in the `locales` folder.
